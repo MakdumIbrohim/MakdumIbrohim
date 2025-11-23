@@ -56,7 +56,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 
 <h2 align="center">ᝰ.ᐟ Knowledge</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,laravel,html,css,js,ts,react,mysql,git,github,vscode,windows,sqlite,php,nodejs,markdown,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,laravel,html,css,js,ts,react,mysql,git,github,vscode,windows,sqlite,php,nodejs,markdown,vercel,postman&perline=6" />
 </p>
 
 <h2 align="center">ᯓ★ GitHub Stats & Activity</h2>
