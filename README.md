@@ -26,7 +26,7 @@
 
 <h2 align="center">꩜ .ᐟ About Me</h2>
 
-<img align="left" src="assets/nyancat.gif" width="80px" style="margin-right: 20px;"/>
+<img align="left" src="assets/waguri-pat.gif" width="80px" style="margin-right: 20px;"/>
 
 ```yaml
 My Profile
