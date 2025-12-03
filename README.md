@@ -9,7 +9,7 @@
 
 <div align="center">
     <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@dum-archlich?name=dum-archlich&theme=rule34">
+        <img align="center" alt="count" src="https://count.getloli.com/@MakdumIbrohim?name=MakdumIbrohim&theme=rule34">
     </p>
 </div>
 
@@ -31,8 +31,8 @@
 ```yaml
 My Profile
 -------------------------------
-Host: dum-archlich.vercel.app
-Username: dum-archlich
+Host: MakdumIbrohim.vercel.app
+Username: MakdumIbrohim
 Whoami: Normal People.
 Languages: Indonesia & English
 Pronouns: Ja/Wir.
@@ -44,13 +44,13 @@ Hobbies: Watching Anime, Reading, Listening Music.
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dum-archlich/dum-archlich/output/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dum-archlich/dum-archlich/output/pacman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dum-archlich/dum-archlich/tree/output/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/tree/output/pacman/pacman-contribution-graph-dark.svg">
 </picture>
 
 <p align="center">
-  <img src="https://github.com/dum-archlich/dum-archlich/blob/output/snake/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://github.com/MakdumIbrohim/MakdumIbrohim/blob/output/snake/github-snake-dark.svg" alt="snake gif" />
 </p>
 
 
@@ -62,12 +62,12 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <h2 align="center">ᯓ★ GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dum-archlich&theme=dark&hide_border=true" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakdumIbrohim&theme=dark&hide_border=true" align="center" />
 </div>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dum-archlich&theme=github-compact&line=2b5adc" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MakdumIbrohim&theme=github-compact&line=2b5adc" />
 </p>
 
 <p align="center">
