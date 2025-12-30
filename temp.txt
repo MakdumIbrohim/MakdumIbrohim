@@ -6,4 +6,3 @@
     <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
   </a>
 
-
