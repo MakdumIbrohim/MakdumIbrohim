@@ -67,6 +67,11 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <br>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/game/game.gif" alt="Space Shooter Contribution Game" />
+</p>
+<br>
+
+<p align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
