@@ -43,6 +43,10 @@ Hobbies: Watching Anime, Reading, Listening Music.
 
 ---
 
+<p align="center">
+  <img src="game.gif" alt="Space Shooter Contribution Game" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph.svg">
@@ -64,11 +68,6 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakdumIbrohim&theme=dark&hide_border=true" align="center" />
 </div>
-<br>
-
-<p align="center">
-  <img src="game.gif" alt="Space Shooter Contribution Game" />
-</p>
 <br>
 
 <p align="center">
