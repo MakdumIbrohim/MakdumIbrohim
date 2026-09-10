@@ -67,10 +67,6 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MakdumIbrohim&theme=github-compact&line=2b5adc" />
-</p>
-
-<p align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
