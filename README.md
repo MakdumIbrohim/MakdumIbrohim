@@ -7,10 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2b5adc&height=90&section=header"/>
 </p>
 
-<p align="center">
-  <img src="game.gif" alt="Brick Breaker Contribution Game" />
-</p>
-
 <div align="center">
     <p>
         <img align="center" alt="count" src="https://count.getloli.com/@MakdumIbrohim?name=MakdumIbrohim&theme=rule34">
@@ -46,6 +42,10 @@ Hobbies: Watching Anime, Reading, Listening Music.
 ```
 
 ---
+
+<p align="center">
+  <img src="game.gif" alt="Brick Breaker Contribution Game" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph-dark.svg">
