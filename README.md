@@ -7,6 +7,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2b5adc&height=90&section=header"/>
 </p>
 
+<p align="center">
+  <img src="game.gif" alt="Brick Breaker Contribution Game" />
+</p>
+
 <div align="center">
     <p>
         <img align="center" alt="count" src="https://count.getloli.com/@MakdumIbrohim?name=MakdumIbrohim&theme=rule34">
@@ -43,19 +47,11 @@ Hobbies: Watching Anime, Reading, Listening Music.
 
 ---
 
-<p align="center">
-  <img src="game.gif" alt="Space Shooter Contribution Game" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/tree/output/pacman/pacman-contribution-graph-dark.svg">
 </picture>
-
-<p align="center">
-  <img src="https://github.com/MakdumIbrohim/MakdumIbrohim/blob/output/snake/github-snake-dark.svg" alt="snake gif" />
-</p>
 
 
 <h2 align="center">ᝰ.ᐟ Knowledge</h2>
