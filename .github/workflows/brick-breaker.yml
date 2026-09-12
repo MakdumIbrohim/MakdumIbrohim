@@ -20,9 +20,9 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user: ${{ github.repository_owner }}
-          output_path: game.gif
-          ball_skin: lightning # classic | fire | ice | lightning | poison
-          theme: synthwave # dark | sky | synthwave | matrix
+          output_path: game.svg
+          ball_skin: fire # classic | fire | ice | lightning | poison
+          theme: sky # dark | sky | synthwave | matrix
           paddle_skin: retro # default | laser | retro | mecha | cyber
 
       - name: Commit and Push
