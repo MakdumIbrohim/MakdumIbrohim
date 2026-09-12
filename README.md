@@ -47,11 +47,13 @@ Hobbies: Watching Anime, Reading, Listening Music.
   <img src="game.svg" alt="Brick Breaker Contribution Game" />
 </p>
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/tree/output/pacman/pacman-contribution-graph-dark.svg">
 </picture>
+-->
 
 
 <h2 align="center">ᝰ.ᐟ Knowledge</h2>
