@@ -44,7 +44,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 ---
 
 <p align="center">
-  <img src="game.gif" alt="Brick Breaker Contribution Game" />
+  <img src="game.svg" alt="Brick Breaker Contribution Game" />
 </p>
 
 <picture>
