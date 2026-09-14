@@ -26,7 +26,7 @@ jobs:
           output_path: game.svg
 
           # Options: classic | fire | ice | lightning | poison
-          ball_skin: ice
+          ball_skin: fire
 
           # Options: classic | sky | sky-night | synthwave | matrix | sakura
           theme: classic
