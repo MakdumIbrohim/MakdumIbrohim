@@ -15,7 +15,7 @@
 
 <h1 align="center">Hi there! </h1>
 
-<p align="center">I'm a beginner developer who loves real-time strategy games and exploring new technologies.</p>
+<p align="center">A curious builder who loves real-time strategy games and exploring new technologies.</p>
 
 <table align="center">
   <tr>
