@@ -51,10 +51,6 @@ Hobbies: Watching Anime, Reading, Listening Music.
 
 ---
 
-<p align="center">
-  <img src="game.svg" alt="Brick Breaker Contribution Game" />
-</p>
-
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph-dark.svg">
@@ -85,6 +81,11 @@ Hobbies: Watching Anime, Reading, Listening Music.
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xmneitprzk52zpfmyd6nawt27e&cover_image=true&theme=novatorem&show_offline=false&background_color=2b5adc&interchange=false" alt="spotify-github-profile" />
   </a>
+</p>
+
+
+<p align="center">
+  <img src="game.svg" alt="Brick Breaker Contribution Game" />
 </p>
 
 <p align="center">
