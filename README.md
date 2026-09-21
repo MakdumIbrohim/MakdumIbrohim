@@ -17,13 +17,13 @@
 
 <p align="center">A curious builder who loves real-time strategy games and exploring new technologies.</p>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
       <video src="https://github.com/user-attachments/assets/64146fc4-5020-48c9-85c3-39be8eb30a83" width="10" controls></video>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00B8FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Python+Enthusiast;Lifelong+Learner;Loves+Creative+Tech+%2B+Art" alt="Typing SVG" />
