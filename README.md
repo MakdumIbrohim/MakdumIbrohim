@@ -16,6 +16,9 @@
 <h1 align="center">Hi there! </h1>
 
 <p align="center">A curious builder who loves real-time strategy games and exploring new technologies.</p>
+<p align="center">
+  <img src="game.svg" alt="Brick Breaker Contribution Game" />
+</p>
 
 <!-- <table align="center">
   <tr>
@@ -83,10 +86,13 @@ Hobbies: Watching Anime, Reading, Listening Music.
   </a>
 </p>
 
-
-<p align="center">
-  <img src="game.svg" alt="Brick Breaker Contribution Game" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <video src="https://github.com/user-attachments/assets/234ba15e-1915-4822-8e61-b80d901ecea9" width="10" controls></video>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2b5adc&height=90&section=footer"/>
