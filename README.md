@@ -89,7 +89,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <table align="center">
   <tr>
     <td>
-      <video src="https://github.com/user-attachments/assets/234ba15e-1915-4822-8e61-b80d901ecea9" width="10" controls></video>
+      <video src="https://github.com/user-attachments/assets/b076ac78-83b3-4dd1-b171-b1b0ebf45412" width="10" controls></video>
     </td>
   </tr>
 </table>
