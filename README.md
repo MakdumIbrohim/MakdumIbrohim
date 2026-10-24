@@ -5,8 +5,10 @@
 </p>
 
 <img alt="count" src="https://count.getloli.com/@MakdumIbrohim?name=MakdumIbrohim&theme=rule34">
+<br><br>
 
-# Hi, I'm Makdum <img src="https://api.iconify.design/lucide/swords.svg?color=%232b5adc" width="28" valign="middle"/>
+<img width="38%" alt="I'm Ibrahim" src="assets/image.png">
+<br><br>
 
 **Tactician Developer • Real-Time Strategy Enthusiast • Exploring Tech**
 
