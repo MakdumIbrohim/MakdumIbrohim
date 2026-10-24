@@ -1,99 +1,103 @@
-<!-- README.md GitHub Profile -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B8FF&height=100&section=header"/>
-</p> -->
+<div align="center">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2b5adc&height=90&section=header"/>
 </p>
 
-<div align="center">
-    <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@MakdumIbrohim?name=MakdumIbrohim&theme=rule34">
-    </p>
-</div>
+<img alt="count" src="https://count.getloli.com/@MakdumIbrohim?name=MakdumIbrohim&theme=rule34">
 
-<h1 align="center">Hi there! </h1>
+# Hi, I'm Makdum ⚔️
 
-<p align="center">A curious builder who loves real-time strategy games and exploring new technologies.</p>
+**Tactician Developer • Real-Time Strategy Enthusiast • Exploring Tech**
+
+[![WakaTime](https://wakatime.com/badge/user/0fc3ba75-7646-4528-9392-0445ed17cda7.svg?style=flat-square&color=2b5adc)](https://wakatime.com/@dumarchlich)
+
+---
+
+## 🎮 Contribution Arcade
+
 <p align="center">
   <img src="game.svg" alt="Brick Breaker Contribution Game" />
 </p>
 
-<!-- <table align="center">
-  <tr>
-    <td>
-      <video src="https://github.com/user-attachments/assets/64146fc4-5020-48c9-85c3-39be8eb30a83" width="10" controls></video>
-    </td>
-  </tr>
-</table> -->
+---
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00B8FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Python+Enthusiast;Lifelong+Learner;Loves+Creative+Tech+%2B+Art" alt="Typing SVG" />
-</p> -->
+## 🛠️ Tech Stack
 
-
-<!-- - ✉︎ Reach me at: [mkdmvx9@gmail.com](mailto:mkdmvx9@gmail.com)  -->
-
-<h2 align="center">꩜ .ᐟ About Me</h2>
-
-<img align="left" src="assets/waguri-pat.gif" width="80px" style="margin-right: 20px;"/>
-
-```yaml
-My Profile
--------------------------------
-Host: MakdumIbrohim.vercel.app
-Username: MakdumIbrohim
-Whoami: Normal People.
-Languages: Indonesia & English
-Pronouns: Ja/Wir.
-Location: Jawa Timur, Indonesia.
-Hobbies: Watching Anime, Reading, Listening Music.
-
-```
+| Mobile & Frontend | Backend & Database | Tools & DevOps |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css" /> | <img src="https://skillicons.dev/icons?i=python,laravel,php,nodejs,mysql,postgres,sqlite" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,postman" /> |
 
 ---
 
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/output/pacman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MakdumIbrohim/MakdumIbrohim/tree/output/pacman/pacman-contribution-graph-dark.svg">
-</picture>
--->
+## 📊 Stats
 
+<table>
+  <tr>
+    <td align="center" width="55%">
+      <img src="https://gh-readme-profile.vercel.app/api?username=MakdumIbrohim&hide_stroke=true&hide_border=true&bg_color=151515&title_color=fefefe&text_color=9e9e9e&icon_color=9e9e9e" />
+    </td>
+    <td align="center" width="45%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MakdumIbrohim&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakdumIbrohim&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="github-metrics.svg" alt="GitHub Metrics" />
+    </td>
+  </tr>
+</table>
 
-<h2 align="center">ᝰ.ᐟ Knowledge</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,laravel,html,css,js,ts,react,mysql,git,github,vscode,windows,sqlite,php,nodejs,markdown,vercel,netlify,postman,docker&perline=6" />
-</p>
+---
 
-<h2 align="center">ᯓ★ GitHub Stats & Activity</h2>
+## ♫ Now Playing
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakdumIbrohim&theme=dark&hide_border=true" align="center" />
-</div>
-<br>
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-<h2 align="center">♫ Now Playing</h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xmneitprzk52zpfmyd6nawt27e&cover_image=true&theme=novatorem&show_offline=false&background_color=2b5adc&interchange=false" alt="spotify-github-profile" />
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <video src="https://github.com/user-attachments/assets/b076ac78-83b3-4dd1-b171-b1b0ebf45412" width="10" controls></video>
-    </td>
-  </tr>
+---
+
+## 🌐 Web Pages
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="33%"><a href="https://MakdumIbrohim.vercel.app">Landing</a></th>
+      <th align="center" width="33%"><a href="https://MakdumIbrohim.vercel.app">Portfolio</a></th>
+      <th align="center" width="33%"><a href="https://MakdumIbrohim.vercel.app">Blog</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://MakdumIbrohim.vercel.app">
+          <img src="assets/page.png" alt="Landing" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://MakdumIbrohim.vercel.app">
+          <img src="assets/portofolio.png" alt="Portfolio" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://MakdumIbrohim.vercel.app">
+          <img src="assets/blog.png" alt="Blog" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2b5adc&height=90&section=footer"/>
 </p>
+
+</div>
