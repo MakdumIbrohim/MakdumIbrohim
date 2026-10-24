@@ -46,11 +46,13 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakdumIbrohim&theme=dark&hide_border=true" />
     </td>
   </tr>
+  <!--
   <tr>
     <td align="center" colspan="2">
       <img src="github-metrics.svg" alt="GitHub Metrics" />
     </td>
   </tr>
+  -->
 </table>
 
 ---
