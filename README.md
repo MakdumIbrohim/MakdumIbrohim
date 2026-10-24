@@ -6,7 +6,7 @@
 
 <img alt="count" src="https://count.getloli.com/@MakdumIbrohim?name=MakdumIbrohim&theme=rule34">
 
-# Hi, I'm Makdum ⚔️
+# Hi, I'm Makdum <img src="https://api.iconify.design/lucide/swords.svg?color=%232b5adc" width="28" valign="middle"/>
 
 **Tactician Developer • Real-Time Strategy Enthusiast • Exploring Tech**
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎮 Contribution Arcade
+## <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%232b5adc" width="22" valign="middle"/> Contribution Arcade
 
 <p align="center">
   <img src="game.svg" alt="Brick Breaker Contribution Game" />
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%232b5adc" width="22" valign="middle"/> Tech Stack
 
 | Mobile & Frontend | Backend & Database | Tools & DevOps |
 | :---: | :---: | :---: |
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 Stats
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%232b5adc" width="22" valign="middle"/> Stats
 
 <table>
   <tr>
@@ -57,7 +57,7 @@
 
 ---
 
-## ♫ Now Playing
+## <img src="https://api.iconify.design/lucide/disc-3.svg?color=%232b5adc" width="22" valign="middle"/> Now Playing
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -67,7 +67,7 @@
 
 ---
 
-## 🌐 Web Pages
+## <img src="https://api.iconify.design/lucide/globe.svg?color=%232b5adc" width="22" valign="middle"/> Web Pages
 
 <table>
   <thead>
