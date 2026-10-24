@@ -34,16 +34,19 @@
 
 <table>
   <tr>
-    <td align="center" width="55%">
+    <td align="center" width="50%">
       <img src="https://gh-readme-profile.vercel.app/api?username=MakdumIbrohim&hide_stroke=true&hide_border=true&bg_color=151515&title_color=fefefe&text_color=9e9e9e&icon_color=9e9e9e" />
     </td>
-    <td align="center" width="45%">
+    <td align="center" width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MakdumIbrohim&theme=dark" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakdumIbrohim&theme=dark&hide_border=true" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MakdumIbrohim&theme=dark&utcOffset=7" />
     </td>
   </tr>
   <!--
