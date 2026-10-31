@@ -12,8 +12,6 @@
 
 **Tactician Developer • Real-Time Strategy Enthusiast • Exploring Tech**
 
-[![WakaTime](https://wakatime.com/badge/user/0fc3ba75-7646-4528-9392-0445ed17cda7.svg?style=flat-square&color=2b5adc)](https://wakatime.com/@dumarchlich)
-
 ---
 
 ## <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%232b5adc" width="22" valign="middle"/> Contribution Arcade
