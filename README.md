@@ -26,7 +26,7 @@
 
 | Mobile & Frontend | Backend & Database | Tools & DevOps |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css" /> | <img src="https://skillicons.dev/icons?i=python,laravel,php,nodejs,mysql,postgres,sqlite" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,postman" /> |
+| <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,tailwind,ts,js,html,css&perline=3" /> | <img src="https://skillicons.dev/icons?i=python,fastapi,laravel,php,nodejs,redis,mysql,postgres,sqlite&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,nginx,vercel,netlify,postman&perline=3" /> |
 
 ---
 
