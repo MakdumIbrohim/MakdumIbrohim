@@ -7,9 +7,6 @@
 <img alt="count" src="https://count.getloli.com/@MakdumIbrohim?name=MakdumIbrohim&theme=rule34">
 <br><br>
 
-<img width="38%" alt="I'm Ibrahim" src="assets/image.png">
-<br><br>
-
 **Tactician Developer • Real-Time Strategy Enthusiast • Exploring Tech**
 
 <p align="center">
