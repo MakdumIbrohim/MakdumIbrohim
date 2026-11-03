@@ -7,7 +7,7 @@
 <img alt="count" src="https://count.getloli.com/@MakdumIbrohim?name=MakdumIbrohim&theme=rule34">
 <br><br>
 
-**Tactician Developer • Real-Time Strategy Enthusiast • Exploring Tech**
+**Tactician Developer • Linux Ricer • RTS Enthusiast**
 
 <p align="center">
   <img src="profile-card.svg" alt="Makdum Ibrohim Terminal Profile" />
