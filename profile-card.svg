@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="560px" font-size="16px">
+<style>.key{fill:#ffa657}.value{fill:#a5d6ff}.dots{fill:#616e7f}.add{fill:#3fb950}.sub{fill:#f85149}text,tspan{white-space:pre}</style>
+<rect width="985px" height="560px" fill="#161b22" rx="15" stroke="#30363d"/>
+<text x="20" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="20" y="30">%%%%%#**#++++=+::::=++++++++++++++</tspan>
+<tspan x="20" y="50">%%%%%*+*#+++++=.:::=++++++++++++++</tspan>
+<tspan x="20" y="70">%%%%#*+**+++++:::::+++++++++++++++</tspan>
+<tspan x="20" y="90">%%#+**++*+++*-....:+-+++*++*++++*+</tspan>
+<tspan x="20" y="110">%#++%*++*++++-==++***#**=-==+*##+%</tspan>
+<tspan x="20" y="130">*++*%*++#+*##@@@@*:---=%+=###%@@:*</tspan>
+<tspan x="20" y="150">++*%%*++#%##@@@@#@+:.. :%%++%#%@#.</tspan>
+<tspan x="20" y="170">++#%%*++%%%@@@@@%:=-... **..#%=%#.</tspan>
+<tspan x="20" y="190">+*%%%*=*%%@@@-*@@% :....++:.+@#=-.</tspan>
+<tspan x="20" y="210">*%%%#*#%%@@@%-%++#.....:#+.:-%+=::</tspan>
+<tspan x="20" y="230">%%**##***@*@+#@+==.....:%+.:.*%-.:</tspan>
+<tspan x="20" y="250">%*%+:+==-##++====-.....:%-.:..*#-:</tspan>
+<tspan x="20" y="270">#@*..+==::%::----......:*:. ..:=**</tspan>
+<tspan x="20" y="290">.--::==--.=#:.........:#-.::::::::</tspan>
+<tspan x="20" y="310">   ..-*=-::*#=:.....:=*-.:::::::::</tspan>
+<tspan x="20" y="330"> ..   %%=::+-+**+++++=:.::::...:::</tspan>
+<tspan x="20" y="350">--:   *@+ .==.::---:..:::....:-.::</tspan>
+<tspan x="20" y="370">-.    +@+  .-.:....:::::=-:::::.::</tspan>
+<tspan x="20" y="390">::    :@*   . .::::::::..::.....:.</tspan>
+<tspan x="20" y="410">.     :%#      .:::::::..........-</tspan>
+<tspan x="20" y="430">#**+=*=*%.      .::::::::::::::.=%</tspan>
+<tspan x="20" y="450">*%%%@@-=@.        ::::::::::::.=%%</tspan>
+<tspan x="20" y="470">##%%%%. @-   :.    .:::::::::.=%%#</tspan>
+<tspan x="20" y="490">##%%@*  #+   :.::....:::.....-%%%#</tspan>
+<tspan x="20" y="510">+##%#-  -%  .= :::::+%###****%%%%*</tspan>
+<tspan x="20" y="530">++#-     #: :+ :::.-%%%%%%@%%%%%%#</tspan>
+</text>
+<text x="380" y="30" fill="#c9d1d9">
+<tspan x="380" y="30">makdumibrohim@github ---------------------------------------------</tspan>
+<tspan x="380" y="50"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">CachyOS Linux x86_64</tspan></tspan>
+<tspan x="380" y="70"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ............................ </tspan><tspan class="value">Acer Aspire A514-54G</tspan></tspan>
+<tspan x="380" y="90"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">7.3.0-4-cachyos</tspan></tspan>
+<tspan x="380" y="110"><tspan class="dots">. </tspan><tspan class="key">Shell</tspan>:<tspan class="dots"> .............................................. </tspan><tspan class="value">fish</tspan></tspan>
+<tspan x="380" y="130"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>:<tspan class="dots"> ....................................... </tspan><tspan class="value">VS Code, Fish</tspan></tspan>
+<tspan x="380" y="150"></tspan>
+<tspan x="380" y="170"><tspan class="dots">. </tspan><tspan class="key">Hardware.CPU</tspan>:<tspan class="dots"> ..... </tspan><tspan class="value">11th Gen Intel i3-1115G4 (4) @ 3.00GHz</tspan></tspan>
+<tspan x="380" y="190"><tspan class="dots">. </tspan><tspan class="key">Hardware.GPU</tspan>:<tspan class="dots"> .................... </tspan><tspan class="value">NVIDIA GeForce MX350</tspan></tspan>
+<tspan x="380" y="210"><tspan class="dots">. </tspan><tspan class="key">Hardware.RAM</tspan>:<tspan class="dots"> .................... </tspan><tspan class="value">5.80 GiB / 11.46 GiB</tspan></tspan>
+<tspan x="380" y="230"></tspan>
+<tspan x="380" y="250"><tspan class="dots">. </tspan><tspan class="key">Languages.Core</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">Dart, Python, PHP, C++</tspan></tspan>
+<tspan x="380" y="270"><tspan class="dots">. </tspan><tspan class="key">Languages.Web</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">TypeScript, JavaScript, HTML</tspan></tspan>
+<tspan x="380" y="290"><tspan class="dots">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">Flutter, Next.js, FastAPI</tspan></tspan>
+<tspan x="380" y="310"><tspan class="dots">. </tspan><tspan class="key">Databases</tspan>:<tspan class="dots"> ........... </tspan><tspan class="value">PostgreSQL, MySQL, SQLite, Redis</tspan></tspan>
+<tspan x="380" y="330"></tspan>
+<tspan x="380" y="350"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Linux</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">Linux Ricing, Dotfiles</tspan></tspan>
+<tspan x="380" y="370"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Gaming</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">Real-Time Strategy (RTS)</tspan></tspan>
+<tspan x="380" y="390"></tspan>
+<tspan x="380" y="410">- Contact --------------------------------------------------</tspan>
+<tspan x="380" y="430"><tspan class="dots">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">makdumibrohim3@gmail.com</tspan></tspan>
+<tspan x="380" y="450"><tspan class="dots">. </tspan><tspan class="key">Website</tspan>:<tspan class="dots"> ..................... </tspan><tspan class="value">https://about-dum.vercel.app</tspan></tspan>
+<tspan x="380" y="470"><tspan class="dots">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="dots"> ................................... </tspan><tspan class="value">MakdumIbrohim</tspan></tspan>
+<tspan x="380" y="490"></tspan>
+<tspan x="380" y="510">- GitHub Stats ---------------------------------------------</tspan>
+<tspan x="380" y="530"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> ..... </tspan><tspan class="value">31</tspan> | <tspan class="key">Stars</tspan>:<tspan class="dots"> ....... </tspan><tspan class="value">15</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dots"> ....... </tspan><tspan class="value">15</tspan></tspan>
+</text></svg>
